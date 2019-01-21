@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">DatabaseSample</string>
+
+    <!-- menuリスト -->
+    <string-array name="lv_menu">
+        <item>みたらし団子</item>
+        <item>わたがし</item>
+        <item>きなこ棒</item>
+        <item>おはぎ</item>
+        <item>金平糖</item>
+    </string-array>
+
+    <string name="tv_lb_name">選択：</string>
+    <string name="tv_name">未選択</string>
+    <string name="tv_lb_note">のおと：</string>
+    <string name="btn_save">保存</string>
+</resources>
